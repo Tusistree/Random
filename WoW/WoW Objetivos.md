@@ -1,11 +1,10 @@
 LvL 80
+Full Transmog
+Mythic Dungeons & Raids
 Max Gear 
 9.999.999 de Gold
 Brutossauro Antigo
-Full Transmog
-Mythic Dungeons & Raids
 Gladiador
-Colecionar Ajudantes
 
 # Extras
 
