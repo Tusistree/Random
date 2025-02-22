@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2421b90be420f27",
+        "id": "ffb91daf64699cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "670cd1188d7ed73c",
+            "id": "ea919d3eb263f577",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WoW/Macros.md",
+                "file": "WoW/Hunter (Marksmanship)/Macros.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,13 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "895fe131a8a0cdb3",
+  "active": "ea919d3eb263f577",
   "lastOpenFiles": [
+    "WoW/Hunter (Survival)/Macros.md",
+    "WoW/Hunter (Marksmanship)/Macros.md",
+    "WoW/Objetivos.md",
+    "MC/Objetivos.md",
+    "WoW/Hunter (Marksmanship)",
+    "Dota/Testar.md",
+    "Dota",
+    "WoW/Hunter (Survival)",
     "MC",
-    "WoW/WoW Objetivos.md",
-    "WoW/Macros.md",
     "WoW",
-    "MC/MC Objetivos.md",
     "().md"
   ]
 }
