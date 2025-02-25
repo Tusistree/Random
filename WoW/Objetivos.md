@@ -1,6 +1,5 @@
-LvL 80 ✔️
-Dirigível do Imersor
-Archivist Gear (Torso, Cinto, Pernas)
+Archivist Gear ✔️
+LvL 80 
 Mythic Dungeons & Raids
 Max Gear 
 9.999.999 de Gold
@@ -9,4 +8,5 @@ Gladiador
 
 # Extras
 
-Colecionar Montarias, Mascotes, Conquistas, Ajudantes e etc.
+Colecionar Montarias, Mascotes, Conquistas e etc.
+Criar ou Participar de guilda
