@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "16d20bde95e0a4d1",
+        "id": "fcd3b61e5e1d26ff",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8157e3da0e7edc",
+            "id": "d7d49f4c594735bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MC/Objetivos.md",
+                "file": "MC/Arcana/1. Ars Nouveau.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Objetivos"
+              "title": "1. Ars Nouveau"
             }
           }
         ]
@@ -168,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb8157e3da0e7edc",
+  "active": "d7d49f4c594735bc",
   "lastOpenFiles": [
-    "MC/c381dd3a04664336.png",
+    "MC/Arcana/0. Lista de Mods.md",
+    "MC/Arcana/1. Ars Nouveau.md",
+    "MC/Arcana",
     "MC/Objetivos.md",
+    "MC/Imagens/big-bee-face.jpg",
+    "MC/Imagens",
+    "MC/Imagens/c381dd3a04664336.png",
     "Dota/Testar.md",
     "WoW/Objetivos.md",
     "MC/Tusistree.png",
