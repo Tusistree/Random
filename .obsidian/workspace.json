@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd3b61e5e1d26ff",
+        "id": "57eeef3be4320033",
         "type": "tabs",
         "children": [
           {
-            "id": "d7d49f4c594735bc",
+            "id": "3e63d3dce92ef7ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MC/Arcana/1. Ars Nouveau.md",
+                "file": "MC/Modded/1. Ars Nouveau.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,15 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d49f4c594735bc",
+  "active": "895fe131a8a0cdb3",
   "lastOpenFiles": [
-    "MC/Arcana/0. Lista de Mods.md",
-    "MC/Arcana/1. Ars Nouveau.md",
-    "MC/Arcana",
-    "MC/Objetivos.md",
-    "MC/Imagens/big-bee-face.jpg",
+    "MC/Modded/Arcana/0. Lista de Mods.md",
+    "MC/Imagens/Design/Pasted image 20250421165813.png",
+    "MC/Imagens/Design/Pasted image 20250421165628.png",
+    "MC/Modded/1. Ars Nouveau.md",
+    "MC/0. Objetivos.md",
+    "MC/Imagens/Skin/c381dd3a04664336.png",
+    "MC/Imagens/Skin/big-bee-face.jpg",
+    "MC/Imagens/Skin",
+    "MC/Imagens/Design",
+    "MC/Modded",
+    "MC/Modded/Arcana",
     "MC/Imagens",
-    "MC/Imagens/c381dd3a04664336.png",
     "Dota/Testar.md",
     "WoW/Objetivos.md",
     "MC/Tusistree.png",
@@ -189,9 +194,6 @@
     "WoW/Hunter",
     "WoW/Hunter/Marksmanship",
     "Dota",
-    "WoW/Hunter/Survival",
-    "MC",
-    "WoW",
     "().md"
   ]
 }
