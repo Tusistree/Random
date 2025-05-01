@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MC/Modded/Arcana/Lista de Mods.md",
+                "file": "WoW/Objetivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista de Mods"
+              "title": "Objetivos"
             }
           }
         ]
@@ -170,11 +170,15 @@
   },
   "active": "3e63d3dce92ef7ac",
   "lastOpenFiles": [
-    "MC/Modded/1. Ars Nouveau.md",
-    "MC/Modded/Arcana/Lista de Mods.md",
+    "WoW/Hunter/Marksmanship/Macros.md",
+    "WoW/Hunter/Survival/Macros.md",
+    "MC/Objetivos.md",
+    "MC/Modded/Arcana/Lista de Mods (Arcana).md",
+    "MC/Modded/ATM10/Lista de Mods (ATM10).md",
+    "MC/Modded/99. Ars Nouveau.md",
+    "MC/Modded/ATM10",
     "MC/Imagens/Design/Pasted image 20250421165813.png",
     "MC/Imagens/Design/Pasted image 20250421165628.png",
-    "MC/0. Objetivos.md",
     "MC/Imagens/Skin/c381dd3a04664336.png",
     "MC/Imagens/Skin/big-bee-face.jpg",
     "MC/Imagens/Skin",
@@ -186,14 +190,11 @@
     "WoW/Objetivos.md",
     "MC/Tusistree.png",
     "MC/Tusistree_Icon.png",
-    "WoW/Hunter/Survival/Macros.md",
-    "WoW/Hunter/Marksmanship/Macros.md",
     "WoW/Mage/Arcane.md",
     "WoW/Mage",
     "WoW/Hunter/Beastmaster",
     "WoW/Hunter",
     "WoW/Hunter/Marksmanship",
-    "Dota",
     "().md"
   ]
 }
