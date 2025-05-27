@@ -12,8 +12,8 @@ https://www.youtube.com/shorts/A5MFtw_NXXI
 Easy Starter House🏠 ✔️
 https://www.youtube.com/shorts/A3QNHcWhJ50
 
-Minecraft Construção - Casa Na Árvore
-https://www.youtube.com/shorts/wP7KnH4FL7Y
-
 Minecraft Starter House Tutorial🏠
 https://www.youtube.com/shorts/UfG2BWNJDC8
+
+Minecraft Construção - Casa Na Árvore
+https://www.youtube.com/shorts/wP7KnH4FL7Y

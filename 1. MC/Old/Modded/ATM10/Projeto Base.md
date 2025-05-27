@@ -1,0 +1,1 @@
+A gente núcleo 4x4 chunks (16 chunks) loaded, e mais uma camada de chunks ao redor para fazer o formato circular.

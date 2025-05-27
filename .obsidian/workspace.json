@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd732d634421059d",
+        "id": "e9aa1be62831825f",
         "type": "tabs",
         "children": [
           {
-            "id": "148df0a2fe52ac7c",
+            "id": "ae23d7cd97ce1ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MC/Modded/Construções/Referências (construções).md",
+                "file": "2. WoW/Old/Objetivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referências (construções)"
+              "title": "Objetivos"
             }
           }
         ]
@@ -168,34 +168,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "148df0a2fe52ac7c",
+  "active": "895fe131a8a0cdb3",
   "lastOpenFiles": [
-    "MC/Modded/99. Ars Nouveau.md",
-    "MC/Modded/Construções/Referências (construções).md",
-    "MC/Modded/ATM10/Lista de Mods (ATM10).md",
-    "MC/Modded/Construções/001.nbt",
-    "MC/Objetivos.md",
-    "MC/Modded/Construções",
-    "MC/Modded/Arcana/Lista de Mods (Arcana).md",
-    "WoW/Objetivos.md",
-    "MC/Imagens/Skin/big-bee-face.jpg",
-    "MC/Imagens/Skin/c381dd3a04664336.png",
-    "MC/Imagens/Design/Pasted image 20250421165628.png",
-    "MC/Imagens/Design/Pasted image 20250421165813.png",
+    "2. WoW/Old",
+    "1. MC/Old/Objetivos.md",
+    "1. MC/Old",
+    "1. MC/Old/Modded/Arcana/Lista de Mods (Arcana).md",
+    "1. MC/Old/Imagens/Skin/c381dd3a04664336.png",
+    "1. MC/Old/Imagens/Skin/big-bee-face.jpg",
+    "1. MC/Imagens/Design/Pasted image 20250421165813.png",
+    "1. MC/Imagens/Design/Pasted image 20250421165628.png",
+    "1. MC/Old/Modded/ATM10/Lista de Mods (ATM10).md",
+    "1. MC/Old/Modded/ATM10/Projeto Base.md",
+    "1. MC/Old/Modded/99. Ars Nouveau.md",
+    "Dúvida da vida.md",
+    "2. WoW/Old/Objetivos.md",
+    "1. MC/Old/Modded/Construções/Referências (construções).md",
+    "A.md",
+    "Pasted image 20250515123016.png",
+    "Pasted image 20250515113351.png",
+    "Pasted image 20250515113327.png",
+    "1. MC/Old/Modded/Construções/001.nbt",
+    "1. MC/Old/Modded/Construções",
     "WoW/Hunter/Marksmanship/Macros.md",
     "WoW/Hunter/Survival/Macros.md",
-    "MC/Modded/ATM10",
-    "MC/Imagens/Skin",
-    "MC/Imagens/Design",
-    "MC/Modded",
-    "MC/Modded/Arcana",
-    "MC/Imagens",
-    "Dota/Testar.md",
+    "1. MC/Old/Modded/ATM10",
+    "1. MC/Old/Imagens/Skin",
+    "1. MC/Imagens/Design",
+    "1. MC/Old/Modded",
+    "1. MC/Old/Modded/Arcana",
+    "1. MC/Old/Imagens",
+    "3. Dota/Testar.md",
     "MC/Tusistree.png",
     "MC/Tusistree_Icon.png",
     "WoW/Mage/Arcane.md",
     "WoW/Mage",
-    "WoW/Hunter/Beastmaster",
     "().md"
   ]
 }
